@@ -29,7 +29,7 @@ Futuramente farei uma versão com o procedumento de assinar o script para não t
 ## Configurando ambiente WSL
 Copie a pasta enable-vpn no diretório WSL para o seu diretório home, ficando no endereço ~/enable-vpn.
 
-Abra seu arquivo bashr para edição
+Abra seu arquivo bashrc para edição
 ```
 nano ~/.bashrc
 ```
