@@ -3,7 +3,7 @@
 
 Este repositório foi criado para salvar instruções referentes a um facilitador de configuração de VPN para o WSL utilizando a vpn através do Cysco Anyconnect.
 
-# Pré-requisitos
+## Pré-requisitos
 
 Antes de iniciar o processo de configuração para usar os scripts, você deve ter instalado na sua máquina o Windows 10 atualizado para versão 2004, Build 19041 ou superior.
 
