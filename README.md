@@ -5,7 +5,7 @@ Antes de iniciar o processo de configuração para usar os scripts, você deve t
 Para realizar a instalação siga as instruções no site da microsoft:
 https://docs.microsoft.com/pt-br/windows/wsl/install-win10
 
-# Configurando ambiente para permitir o uso do WSL 2 na VPN da Capgemini
+# Configurando ambiente para permitir o uso do WSL 2 na VPN utilizando Anyconnect
 
 Este repositório foi criado para salvar instrunções referentes a um facilitador de configuração de VPN para o WSL utilizando a vpn da capgemini.
 
