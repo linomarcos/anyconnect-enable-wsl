@@ -1,3 +1,10 @@
+# Pré-requisitos
+
+Antes de iniciar o processo de configuração para usar os scripts, você deve ter instalado na sua máquina o Windows 10 atuanizado para versão 2004, Build 19041 ou superior.
+
+Para realizar a instalação siga as instruções no site da microsoft:
+https://docs.microsoft.com/pt-br/windows/wsl/install-win10
+
 # Configurando ambiente para permitir o uso do WSL 2 na VPN da Capgemini
 
 Este repositório foi criado para salvar instrunções referentes a um facilitador de configuração de VPN para o WSL utilizando a vpn da capgemini.
