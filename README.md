@@ -1,3 +1,8 @@
+
+# Configurando ambiente para permitir o uso do WSL 2 na VPN utilizando Anyconnect
+
+Este repositório foi criado para salvar instruções referentes a um facilitador de configuração de VPN para o WSL utilizando a vpn através do Cysco Anyconnect.
+
 # Pré-requisitos
 
 Antes de iniciar o processo de configuração para usar os scripts, você deve ter instalado na sua máquina o Windows 10 atualizado para versão 2004, Build 19041 ou superior.
@@ -5,13 +10,9 @@ Antes de iniciar o processo de configuração para usar os scripts, você deve t
 Para realizar a instalação siga as instruções no site da microsoft:
 https://docs.microsoft.com/pt-br/windows/wsl/install-win10
 
-# Configurando ambiente para permitir o uso do WSL 2 na VPN utilizando Anyconnect
-
-Este repositório foi criado para salvar instrunções referentes a um facilitador de configuração de VPN para o WSL utilizando a vpn da capgemini.
-
 Para funcionar será necessário seguir os procedimentos abaixo tanto no ambiente windows quanto no WSL.
 
-Para funcionar os scripts será necessário a liberação de execução de scripts no power shell e para isso precisará de acesso de administrador.
+Você terá também que liberar execução de scripts no power shell e para isso precisará de acesso de administrador.
 
 ## Configurando ambiente WINDOWS
 
