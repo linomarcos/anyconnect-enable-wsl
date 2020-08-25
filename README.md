@@ -47,3 +47,5 @@ Salve o arquivo.
 Agora sempre que entrar no seu ambiente WSL você será perguntado se está conectado na VPN. Responda "sim" somente se estiver já conectado na VPN pelo windows, desta forma os comandos serão executados e a VPN estará funcionando também no ubuntu.
 
 Responda não e nenhum comando será executado e o WSL só terá conexão se não estiver com a VPN ativa.
+
+Espero que estas orientações sejam úteis! :)
