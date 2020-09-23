@@ -16,7 +16,7 @@ Você terá também que liberar execução de scripts no power shell e para isso
 
 ## Configurando ambiente WINDOWS
 
-Copie a pasta enable-vpn no diretório windows deste repositório para o diretório raíz c:\
+Copie o arquivo de dentro da pasta enable-vpn no diretório windows deste repositório para o diretório raíz c:\
 
 Ainda no windows abra um powershell como administrador e execute o seguinte comando:
 ```
@@ -28,7 +28,7 @@ E seleciona a opção [A] para aplicar a política para todos os scripts.
 Futuramente farei uma versão com o procedumento de assinar o script para não ter que abrir a politica de execução completamente.
 
 ## Configurando ambiente WSL
-Copie a pasta enable-vpn no diretório WSL para o seu diretório home, ficando no endereço ~/enable-vpn.
+Copie o arquivo de dentro da pasta enable-vpn no diretório WSL para o seu diretório home, ficando no endereço ~/enable-vpn.
 
 Abra seu arquivo bashrc para edição
 ```
@@ -40,7 +40,10 @@ adicione a linha abaixo no final do arquivo bashrc:
 sudo ~/enable-vpn.sh
 ```
 
-Salve o arquivo.
+Salve o arquivo e dê permissão de execução nele:
+```
+chmod +x ~/enable-vpn.sh
+```
 
 ## Como funciona?
 
