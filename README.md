@@ -55,5 +55,7 @@ Espero que estas orientações sejam úteis! :)
 
 ## DICA EXTRA
 Se for utilizar git no WSL lembre-se que o formato de arquivo quando você salva no Windows é diferente do Linux então precisa rodar os seguintes comandos para não ter problemas nos seus commits pelo WSL:
+```
 git config --global core.autocrlf false
 git config --global core.filemode false
+```
